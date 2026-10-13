@@ -96,3 +96,9 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+We, the development team for AthleteHub, agree to follow the code of conduct. 
+
+![Han Lam signature](1ecaUlUJFYmtIxN0IjsXY7xaOTczo7CCC)
+
+Han Lam
