@@ -99,6 +99,5 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 
 We, the development team for AthleteHub, agree to follow the code of conduct. 
 
-![Han Lam signature](https://drive.google.com/uc?export=view&id=1ecaUlUJFYmtIxN0IjsXY7xaOTczo7CCC)
-
+<img src="https://drive.google.com/uc?export=view&id=1ecaUlUJFYmtIxN0IjsXY7xaOTczo7CCC" alt="han lam sigature" width="300" />
 Han Lam
