@@ -37,25 +37,16 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Meeting Etiquette
 
-** Meetings are to be conducted distraction free, meaning phones should be put away and distracting apps be muted or put on do-not-disturb.**
-
-Decisions (How will they be made? Majority, consensus, other?)
-
-Attendance (What are your expectations for the frequency and type of attendance?; What are legitimate reasons for missing? What do missing members have to do to make up for missed meetings)
-
-Assignments (How will assignments be made? How will the group deal with members who do not complete (or poorly complete assignments?)
-
-Participation (How will you communicate and share information; How will you ensure full participation of everyone? How will you honor member strengths and interests)?
-
-Meeting Times and Locations/Mediums (How will you decide on locations and times that suit all members)?
-
-Agenda and Minutes /Notes (Who will take them how will they be shared?)
-
-Promptness (What do you expect and how will you handle lateness?)
-
-Conversational Courtesies (How will the team encourage and reinforce active listening, sharing of the airtime, tangents, respectful dialogue, etc )
-
-Enforcement/ Feedback (How will the team enforce its own rules? How do individuals prefer to give and receive feedback?) 
+* Meetings are to be conducted distraction free, meaning phones should be put away and distracting apps be muted or put on do-not-disturb.
+* Decisions - major decisions will be made via vote. Any ties will be up to a coin toss.
+* Attendance - Try to attend every meeting. If a meeting cannot be attended for any reason, it is the missing attendee's resposibility to reach out and get caught up on what they missed (notes, decisions, ect.)
+* Assignments - General meetings will discuss what the next features or parts of the app will be worked on. SCRUM master will divide the work into broader instructions and individual devs will come up with thier own assignments on how to complete those instructions. Missing or incomplete assignments need to be conveyed to the team and new deadlines will be set (either same day for crunch or moving the deadline to allow for schedule changes).
+* Participation All communications will go through the iMeassage groupchat. Paticipation will be measured by meeting attendence, work completed, how much of that work is aproved.
+* Meeting Times and Locations/Mediums - communication is to be conducted in the iMessage groupchat. Meetings are to take place every MONDAY at 5pm. Location of such meetings are in the Language Center (Swan 301). 
+* Agenda and Minutes /Notes - General notes can be taken by anyone. Meetings will be recorded and audio will be transcibed, posted to a meeting folders in docs. **All members who sign this CoC understand and consent to being recorded and their conversations being logged during the span of the meeting**
+* Promptness - Members who are late are responsible for getting all of the information that they missed and catch up on the meeting. 
+* Conversational Courtesies - members will allow others to speak as long as needed as long as it pertains to the topic of the project.
+* Feedback - will be given with constructive criticism. Etiquette will be enforced by all memebers of the team.
 
 
 ## Enforcement
