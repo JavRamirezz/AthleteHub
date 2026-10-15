@@ -101,3 +101,5 @@ We, the development team for AthleteHub, agree to follow the code of conduct.
 
 <img src="https://drive.google.com/uc?export=view&id=1ecaUlUJFYmtIxN0IjsXY7xaOTczo7CCC" alt="han lam sigature" width="300" />
 Han Lam
+<img src="https://drive.google.com/uc?export=view&id=1H48v5Sap3c9Sf8fuKSg7IOo6nIc91xif" alt="Yue_Mao_signature width="300" />
+Yue Mao
