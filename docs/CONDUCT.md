@@ -103,5 +103,5 @@ We, the development team for AthleteHub, agree to follow the code of conduct.
 Han Lam
 <img src="https://drive.google.com/uc?export=view&id=1heUpC28gbOPtMzrrS3eoSPQWq8kTqKLs" alt="Yue_Mao_signature width="80" />
 Yue Mao
-<img src="https://drive.google.com/file/d/19LOnjww91YomVCE3O6IECvANUDFnAveY/view?usp=sharing)" width="200" alt="Javier Ramirez signature"> />
+<img src="https://drive.google.com/file/d/19LOnjww91YomVCE3O6IECvANUDFnAveY/view?usp=sharing" width="200" alt="Javier Ramirez signature">
 Javier Ramirez
