@@ -6,6 +6,8 @@
 
     9/16 survey participants (56%) chose to answer that question with "Finding opportunities near me"
 
-##Observation 2: The majority of people are interested in a casual experience.
-###Observation Statement: Athlete hub wants to be enjoyable for both casual and competitive publics.
-###Supporting Data: 62.5% of the votes said that local sports opportunities and team communication.
+**Observation 2:** The majority of people are interested in a casual experience.
+
+**Observation Statement:** Athlete hub wants to be enjoyable for both casual and competitive publics.
+
+**Supporting Data:** 62.5% of the votes said that local sports opportunities and team communication.
