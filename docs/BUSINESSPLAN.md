@@ -1,1 +1,1 @@
-[Lean Canvas Buisness Model](https://docs.google.com/presentation/d/18i676G9Jj0lMCXWfIT9N9ZhTHrWPo9-7516aJKfjLDQ/edit?slide=id.gc8216bd24_20_0#slide=id.gc8216bd24_20_0)
+[Lean Canvas Buisness Model]([https://docs.google.com/presentation/d/18i676G9Jj0lMCXWfIT9N9ZhTHrWPo9-7516aJKfjLDQ/edit?slide=id.gc8216bd24_20_0#slide=id.gc8216bd24_20_0](https://docs.google.com/presentation/d/103aj4-eF-9n9rMJ_VTqCs_Zx7L8VOQao/edit?usp=sharing&ouid=105270809031750656167&rtpof=true&sd=true)
