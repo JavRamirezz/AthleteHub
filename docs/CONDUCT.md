@@ -105,3 +105,6 @@ Han Lam
 Yue Mao
 <img src="https://drive.google.com/uc?export=view&id=19LOnjww91YomVCE3O6IECvANUDFnAveY" width="200" alt="Javier Ramirez signature">
 Javier Ramirez
+
+<img src="https://drive.google.com/uc?export=view&id=1Cd8trj_VJJeRC4yJpvtqd0zap5IdRLPT" alt="Samir signature" width="200" />
+Samir Melgar
