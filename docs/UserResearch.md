@@ -15,3 +15,10 @@ The majority of people are interested in a casual experience.
 **Observation Statement:** Athlete hub wants to be enjoyable for both casual and competitive publics.
 
 **Supporting Data:** 62.5% of the votes said that local sports opportunities and team communication.
+
+## Observation 3:
+Word of Mouth Is a Common Source of Information
+
+**Observation statement:** Athlete Hub could help users discover sports opportunities beyond their existing social networks.
+
+**Supporting Data:** 11 out of 16 participants (68.6%) currently find local sports games, teams, or events through friends or word of mouth.
