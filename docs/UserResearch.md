@@ -1,6 +1,7 @@
 # User Research Observations
 
-**Observation 1:** A large amount of people (9 (56.3%)) selected that finding oppertunities near them are difficult
+## Observation 1:
+A large amount of people (9 (56.3%)) selected that finding oppertunities near them are difficult
 
 **Observation Statement:** The main goal of the app would be of intrest to many people
 
