@@ -16,6 +16,8 @@ The majority of people are interested in a casual experience.
 
 **Supporting Data:** 62.5% of the votes said that local sports opportunities and team communication.
 
+**Team action:** The team can focus more on working on the features that the users deisire the most
+
 ## Observation 3:
 Word of Mouth Is a Common Source of Information
 
