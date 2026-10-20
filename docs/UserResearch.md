@@ -22,3 +22,11 @@ Word of Mouth Is a Common Source of Information
 **Observation statement:** Athlete Hub could help users discover sports opportunities beyond their existing social networks.
 
 **Supporting Data:** 11 out of 16 participants (68.6%) currently find local sports games, teams, or events through friends or word of mouth.
+
+
+## Observation 4:
+Most participants are interested in finding local pickup games and sports activities.
+
+**Observation Statement:** AthleteHub should focus on making it easy for users to find nearby pickup games and sports opportunities.
+
+**Supporting Data:** 12 out of 16 participants (75%) selected searching for local pickup games as one of the most valuable features in AthleteHub.
