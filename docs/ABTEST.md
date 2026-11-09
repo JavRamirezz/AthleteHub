@@ -30,29 +30,31 @@ Users are directed immediately to EventDiscovery page to browse all available li
 
 If variation B results in more game views and signups, we make the EventDiscovery page the default. If not, we keep the landing page after login/signup on user profile pagee.
 
-## A/B Test 2: Athlete Statistics Display
+## A/B Test 2: Contact Button Display
 User story 3 - user profile
 
 **Metrics**
-- Engagement: How actively users explore and interact with athlete statistics on the Profile page.
-- Task Success: How easily users find and understand specific athlete performance statistics.
+- Engagement: How actively users interact with other athletes through the Contact button.
+- Task Success: How easily users find and use the Contact option on an athlete's profile.
 
-**Hypothesis:** This A/B test is trying to determine whether displaying athlete statistics in individual cards instead of a simple list improves the user experience. The current list layout may make it harder for users to quickly identify important performance information. We believe that a card-based layout will make statistics easier to scan, understand, and compare, encouraging users to explore more information on an athlete's profile.
+**Hypothesis:** This A/B test aims to find out whether adding a Contact button to athlete profiles encourages more interaction between users. We believe that a visible Contact button will make it easier for users to contact other athletes and increase social interaction.
 
 **Experiment:** Using Firebase Remote Config, Firebase A/B Testing, and Firebase Analytics, we will randomly divide users into two groups.
 - Audience: Users who visit an Athlete Profile page will be randomly assigned to two groups(50% each).
-- Group A: Users see the current list layout(Control).
-- Group B: Users see the new card-based layout(Test).
+- Group A: Users do not see a Contact button (Control).
+- Group B: Users see a Contact button(Test).
 - Duration: Run until enough users provide meaningful results.
+
 Things to keep track of with Firebase Analytics Tracking:
 - Profile_view - Visits to an Athlete Profile page.
-- statistics_view - Views of the athlete statistics section.
+- contact_button_click - Clicks on the Contact button.
+- contact_action - Successful contact actions.
 
-**Variation A - List Layout (Control)**
-Athlete statistics are displayed in a simple vertical list, with each statistic shown alongside its corresponding value.
+**Variation A - Without Contact Button (Control)**
+The Athlete Profile page does not display a Contact button. Users can view athlete information and statistics, but cannot directly contact other athletes through the profile.
 
-**Variation B - Card Layout (Test)**
-Athlete statistics are displayed in individual cards, with each card showing a statistic and its corresponding value. This layout aims to make information easier to scan and understand.
+**Variation B - With Contact Button (Test)**
+The Athlete Profile page displays a Contact button. Users can click the button to contact or connect with another athlete. This feature aims to make communication easier and encourage more interaction.
 
-If Variation B results in better user engagement and task success, we will consider adopting the card layout as the default. Otherwise, we will keep the current list layout.
+If Variation B results in higher engagement and more contact actions, we will consider adding the Contact button as a default feature. Otherwise, we will keep the current profile layout.
 
