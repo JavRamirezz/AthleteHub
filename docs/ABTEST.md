@@ -58,3 +58,36 @@ The Athlete Profile page displays a Contact button. Users can click the button t
 
 If Variation B results in higher engagement and more contact actions, we will consider adding the Contact button as a default feature. Otherwise, we will keep the current profile layout.
 
+
+
+
+## A/B Test 3: Single-Step vs. Two-Step Account Creation
+
+**User Story:** US1 – Account Creation
+
+**Metrics:**
+- **Adoption:** Track how many new athletes successfully create an AthleteHub account.
+- **Task Success:** Measure the percentage of users who complete the signup process.
+- **Engagement:** Track how users interact with the signup form and where they stop.
+
+**Hypothesis:** This A/B test will determine whether splitting account creation into two steps makes it easier for athletes to sign up. We believe that a two-step signup process could feel less overwhelming and encourage more users to complete their registration compared to having everything on one page.
+
+**Experiment:** Using Firebase Remote Config, Firebase A/B Testing, and Firebase Analytics, we will randomly divide new users into two groups.
+
+- **Audience:** New users who begin the AthleteHub signup process.
+- **Group A:** 50% of users see the current single-page signup form.
+- **Group B:** 50% of users see a two-step signup process.
+- **Duration:** Run the experiment until enough users participate to compare the results.
+
+**Firebase Analytics Tracking:**
+- `signup_start` – Track when users begin creating an account.
+- `sign_up` – Track when users successfully create an account.
+- `signup_step_completed` – Track when users finish the first step in Variation B.
+
+We will compare the percentage of users who successfully register in each group to determine which signup process performs better.
+
+**Variation A – Single-Step Signup (Control):** Users enter their full name, email, password, and password confirmation on one screen before clicking Create Account.
+
+**Variation B – Two-Step Signup (Test):** Users first enter their full name and email. On the second screen, they create and confirm their password before completing registration.
+
+If Variation B results in a higher signup completion rate, we will consider making the two-step signup process the default for AthleteHub. Otherwise, we will keep the current single-page signup process.
