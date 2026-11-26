@@ -1,2 +1,3 @@
 - <https://docs.google.com/presentation/d/1A7n0Q3O5L1qNTx1GXemKex_3lJoYaBZOSX41ZGPWmqs/edit?usp=sharing> US1: Account Creation
 - <https://docs.google.com/presentation/d/14VgRniwpbPZ30b2jWIhjK8kyWGvOYbHCWNuowvW1038/edit?usp=sharing> US6: Athlete Network and Connections
+- <https://docs.google.com/presentation/d/138lBNFsYSwG5kPYoBH314P8Su3Yg-HP6MF1d-T7OSt4/edit?usp=sharing> US3: Backend Management
